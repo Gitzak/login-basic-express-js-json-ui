@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/Gitzak/login-basic-express-js-json-ui/blob/main/Screenshot%202023-09-06%20215857.png)
 # **Express.js Authentication App**
 
 This **Express.js authentication app** is a simple example of user registration, login, and protected routes using **JSON Web Tokens (JWT)** for authentication. It allows users to create accounts, log in, and access protected resources.
