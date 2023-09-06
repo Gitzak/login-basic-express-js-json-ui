@@ -50,7 +50,7 @@ nodemon app.js
 ```
 
 ## **Usage**
-#### 1. Open your web browser and navigate to [http://localhost:3000/auth/registre](http://localhost:3000/auth/registre)
+#### 1. Open your web browser and navigate to [http://localhost:3000/auth/register](http://localhost:3000/auth/register)
 (or the port you specified in your .env file).
 
 #### 2. Register a new account with a unique username and email.
